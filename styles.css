@@ -143,7 +143,7 @@ i{
     content: '';
     position: absolute;
     height: 110px;
-    width: 240px;
+    width: 290px;
     top: 1%;
     left: 1%;
     z-index: -1;
@@ -248,7 +248,7 @@ i{
     position: absolute;
     top: 81%;
     width: 24%;
-    height: 550px;
+    height: 540px;
     border-radius: 20px;
     background: linear-gradient(45deg, #7a00ff, #ff00c8);
     z-index: -1;
